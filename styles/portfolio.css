@@ -1,0 +1,7 @@
+img {
+    width: 180px;
+    height: auto;
+    border: pink 2px solid;  
+    border-radius: 5%;
+    background: pink;
+}
